@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Baloon/Scenes/Baloon.unity
+    guid: 7fe349a3e1f7b401ca5d7a19b0667e09
+  - enabled: 1
+    path: Assets/Bowling/Scenes/Bowling.unity
+    guid: 8ff81f62ad4ee4d2bbe40c783489b70c
+  - enabled: 1
+    path: Assets/Loops/Scenes/Loops.unity
+    guid: fbb1ae48481804a05a29a11c11c8791c
+  - enabled: 1
+    path: Assets/Simulation/Scenes/Simulation.unity
+    guid: 5b25fd358ae9149cdaf68ca5436fb01a
+  m_configObjects: {}
